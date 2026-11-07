@@ -40,5 +40,8 @@
     "nodemon": "^3.1.10",
     "webpack": "^5.102.1",
     "webpack-cli": "^6.0.1"
+  },
+  "allowScripts": {
+    "bcrypt@6.0.0": true
   }
 }
