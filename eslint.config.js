@@ -10,5 +10,9 @@ module.exports = [
     rules: {
       "no-console": "warn",
     },
+    env: {
+      browser: true,
+      node: true
+    }
   },
 ];
